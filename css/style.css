@@ -109,7 +109,7 @@ a:hover, a:focus, a:active, a:visited {
 
 .hero-header {
 	background: #016cc7;
-	min-height: 810px;
+	min-height: 560px;
 	padding: 5em;
 	color: #fff;
 }
@@ -380,4 +380,8 @@ z-index:999999;
 
 #contacts {
     padding-bottom: 20px;
+}
+
+.tickets2 {
+    background-color: #c1523d;
 }
